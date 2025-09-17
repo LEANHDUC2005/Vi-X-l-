@@ -1,4 +1,4 @@
-/ 'C' source line config statements
+// 'C' source line config statements
 #define _XTAL_FREQ 4000000
 // CONFIG1
 #pragma config FOSC = HS        // Oscillator Selection bits (HS oscillator: High-speed crystal/resonator on RA6/OSC2/CLKOUT and RA7/OSC1/CLKIN)
