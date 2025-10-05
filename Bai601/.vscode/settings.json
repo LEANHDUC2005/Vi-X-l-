@@ -1,0 +1,6 @@
+{
+    "mplab.clangd.arguments": [
+        "--compile-commands-dir=${workspaceFolder}\\_build\\Bai601\\default"
+    ],
+    "mplab.clangd.path": ""
+}

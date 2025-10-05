@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Acer/Documents/Nhom18_Tuan5/Bai601/_build/Bai601/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc8\\v2.50\\bin\\xc8-cc.exe -DXPRJ_default=default -D__16F887__ -D__DEBUG=1 -IC:\\Users\\Acer\\Documents\\Nhom18_Tuan5\\Bai601\\cmake\\Bai601\\default\\..\\..\\..\\Bai601.X -c -mcpu=16F887 -mdfp=C:/Users/Acer/.mchp_packs/Microchip/PIC16Fxxx_DFP/1.7.162/xc8 -fno-short-double -fno-short-float -O0 -fasmfile -maddrqual=ignore -mwarn=-3 -Wa,-a -msummary=-psect,-class,+mem,-hex,-file -ginhx32 -Wl,--data-init -mno-keep-startup -mno-osccal -mno-resetbits -mno-save-resetbits -mno-download -mno-stackcall -mno-default-config-bits -std=c99 -gdwarf-3 -mstack=compiled:auto:auto -o CMakeFiles\\Bai601_default_default_XC8_compile.dir\\C_\\Users\\Acer\\Documents\\Nhom18_Tuan5\\Bai601\\Bai601.X\\601.c.p1 -c C:\\Users\\Acer\\Documents\\Nhom18_Tuan5\\Bai601\\Bai601.X\\601.c",
+  "file": "C:/Users/Acer/Documents/Nhom18_Tuan5/Bai601/Bai601.X/601.c",
+  "output": "C:/Users/Acer/Documents/Nhom18_Tuan5/Bai601/_build/Bai601/default/CMakeFiles/Bai601_default_default_XC8_compile.dir/C_/Users/Acer/Documents/Nhom18_Tuan5/Bai601/Bai601.X/601.c.p1"
+}
+]

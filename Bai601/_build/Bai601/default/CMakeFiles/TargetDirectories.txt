@@ -1,0 +1,4 @@
+C:/Users/Acer/Documents/Nhom18_Tuan5/Bai601/_build/Bai601/default/CMakeFiles/Bai601_default_default_XC8_compile.dir
+C:/Users/Acer/Documents/Nhom18_Tuan5/Bai601/_build/Bai601/default/CMakeFiles/Bai601_default_image_6rV8TbQy.dir
+C:/Users/Acer/Documents/Nhom18_Tuan5/Bai601/_build/Bai601/default/CMakeFiles/edit_cache.dir
+C:/Users/Acer/Documents/Nhom18_Tuan5/Bai601/_build/Bai601/default/CMakeFiles/rebuild_cache.dir
